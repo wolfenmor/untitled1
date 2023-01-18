@@ -1,0 +1,21 @@
+h2{
+    background: aqua;
+    text-decoration: none;
+
+}
+p{
+    background: cornflowerblue;
+    color: gold;
+}
+h1{
+    background: cornflowerblue;
+    color: gold;
+}
+ul{
+    background: cornflowerblue;
+    color: gold;
+}
+a{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
