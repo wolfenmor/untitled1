@@ -1,21 +1,50 @@
 h2{
     background: aqua;
     text-decoration: none;
+    border-radius: 3px;
+    margin-left: 1px;
 
 }
 p{
     background: cornflowerblue;
     color: gold;
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 20px;
+  margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
 h1{
     background: cornflowerblue;
     color: gold;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
 }
 ul{
     background: cornflowerblue;
     color: gold;
+    border-radius: 5px;
 }
 a{
     text-decoration: none;
+    color: lemonchiffon;
+}
+.simpson{
     color: darkgoldenrod;
 }
+html, body{
+    scroll-behavior: smooth;
+    margin: 0;
+}
+a:visited{
+    color: silver;
+}
+img{
+    display: block;
+    border: 2px solid #adf9ff;
+    margin-left: 1px;
+    border-radius: 5px;
+}
+
