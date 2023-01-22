@@ -58,5 +58,7 @@ img{
     display: flex;
     justify-content: center;
 }
-
+.bart{
+    display: flex;
+}
 
