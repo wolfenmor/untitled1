@@ -16,21 +16,28 @@
 }
 .box:nth-child(1){
     margin-right: 15px;
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
 }
 .box:nth-child(2){
     margin-right: 15px;
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
 }
 .box:nth-child(3){
     padding-left: 20px;
     padding-right: 20px;
 }
 a{
+    width: 120px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px black solid;
     text-decoration: none;
+    color: black;
 }
-.button{
+b:nth-child(2){
 
 }
