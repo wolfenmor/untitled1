@@ -11,7 +11,7 @@
     display: flex;
 }
 .higher{
-    width: 40%;
+    width: 50%;
     height: 150px;
     background: cornflowerblue;
     display: flex;
@@ -20,7 +20,7 @@
     border-radius: 2px;
 }
 .lower{
-    width: 40%;
+    width: 50%;
     height: 250px;
     background: cornflowerblue;
     display: flex;
@@ -29,14 +29,14 @@
     border-radius: 2px;
 }
 .fatherbox{
-    width: 40%;
-    height: 150px;
+    width: 50%;
+    height: 160px;
     display: flex;
     column-gap: 20px;
 
 }
 .box{
-    width: 157px;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
