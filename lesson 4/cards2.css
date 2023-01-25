@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 .container{
-    width: 100%;
+    width: 50%;
     height: 1000px;
     background: silver;
 }
@@ -11,7 +11,7 @@ body{
 }
 .smaller{
     background: #010133;
-    width: 8%;
+    width: 10%;
     height: 30px;
     border-radius: 5px;
     top: 20px;
