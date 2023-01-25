@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100%;
+    height: 1000px;
+    background: silver;
+}
+.box, .card{
+    position: relative;
+}
+.smaller{
+    background: #010133;
+    width: 8%;
+    height: 30px;
+    border-radius: 5px;
+    top: 20px;
+    left: 50px;
+}
+.bigger{
+    background: #010133;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: 50px;
+}
+.card{
+    background: #5789ec;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    border-radius: 5px;
+
+}
+.father{
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+}
