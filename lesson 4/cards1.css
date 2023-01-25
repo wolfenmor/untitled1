@@ -36,18 +36,25 @@ a{
     border: 1px black solid;
     text-decoration: none;
     color: black;
-    margin-bottom: 5px;
+    margin-bottom: 30px;
 }
 h3{
-    margin-top: 50px;
-    margin-bottom: 0;
+    margin: 0;
+}
+.circle{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -70px;
 }
 .inner{
-    width: 60px;
-    height: 60px;
-    position: absolute;
-    top: 110px;
-    border: 1px black solid;
-    z-index: 2;
+    width: 80px;
+    height: 80px;
+    border: 1px solid;
     border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
 }
