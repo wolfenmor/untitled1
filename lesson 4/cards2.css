@@ -57,3 +57,6 @@
     position: relative;
     top: -40px;
 }
+.search, .hamburger{
+    color: #3b70e5;
+}
