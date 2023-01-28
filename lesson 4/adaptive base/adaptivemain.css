@@ -1,0 +1,13 @@
+.box{
+    height: 200px;
+    background: linear-gradient(120deg, red, blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-md-9, .col-md-3{
+    height: 400px;
+}
+div[b]{
+    height: 400px;
+}
