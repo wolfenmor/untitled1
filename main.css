@@ -1,1 +1,49 @@
+body{
+    margin: 0;
+    background: silver;
+}
+.higher{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    background: cornflowerblue;
+    width: 50%;
+    height: 200px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
 
+}
+img{
+    border: 1px solid;
+}
+.experience{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    background: cornflowerblue;
+    width: 50%;
+    height: 200px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+ul{
+    padding-right: 70px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
